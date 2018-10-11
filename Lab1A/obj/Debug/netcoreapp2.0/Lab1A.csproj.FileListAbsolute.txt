@@ -1,0 +1,33 @@
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.deps.json
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.runtimeconfig.json
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.runtimeconfig.dev.json
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.dll
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.csprojResolveAssemblyReference.cache
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.csproj.CoreCompileInputs.cache
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.AssemblyInfoInputs.cache
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.AssemblyInfo.cs
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.pdb
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.dll
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.pdb
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.deps.json
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.runtimeconfig.json
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.runtimeconfig.dev.json
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.dll
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.pdb
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.csprojResolveAssemblyReference.cache
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.csproj.CoreCompileInputs.cache
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.AssemblyInfoInputs.cache
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.AssemblyInfo.cs
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.dll
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.pdb
+D:\LAB1\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.deps.json
+D:\LAB1\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.runtimeconfig.json
+D:\LAB1\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.runtimeconfig.dev.json
+D:\LAB1\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.dll
+D:\LAB1\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.pdb
+D:\LAB1\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.csprojResolveAssemblyReference.cache
+D:\LAB1\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.csproj.CoreCompileInputs.cache
+D:\LAB1\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.AssemblyInfoInputs.cache
+D:\LAB1\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.AssemblyInfo.cs
+D:\LAB1\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.dll
+D:\LAB1\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.pdb

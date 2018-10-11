@@ -1,0 +1,12 @@
+D:\LAB1\Lab1A\Lab1B\bin\Debug\netcoreapp2.0\Lab1B.deps.json
+D:\LAB1\Lab1A\Lab1B\bin\Debug\netcoreapp2.0\Lab1B.runtimeconfig.json
+D:\LAB1\Lab1A\Lab1B\bin\Debug\netcoreapp2.0\Lab1B.runtimeconfig.dev.json
+D:\LAB1\Lab1A\Lab1B\bin\Debug\netcoreapp2.0\Lab1B.dll
+D:\LAB1\Lab1A\Lab1B\bin\Debug\netcoreapp2.0\Lab1B.pdb
+D:\LAB1\Lab1A\Lab1B\obj\Debug\netcoreapp2.0\Lab1B.csprojResolveAssemblyReference.cache
+D:\LAB1\Lab1A\Lab1B\obj\Debug\netcoreapp2.0\Lab1B.csproj.CoreCompileInputs.cache
+D:\LAB1\Lab1A\Lab1B\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\LAB1\Lab1A\Lab1B\obj\Debug\netcoreapp2.0\Lab1B.AssemblyInfoInputs.cache
+D:\LAB1\Lab1A\Lab1B\obj\Debug\netcoreapp2.0\Lab1B.AssemblyInfo.cs
+D:\LAB1\Lab1A\Lab1B\obj\Debug\netcoreapp2.0\Lab1B.dll
+D:\LAB1\Lab1A\Lab1B\obj\Debug\netcoreapp2.0\Lab1B.pdb

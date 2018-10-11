@@ -1,0 +1,33 @@
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\DealershipTesting\obj\Debug\netcoreapp2.0\DealershipTesting.csprojResolveAssemblyReference.cache
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\DealershipTesting\obj\Debug\netcoreapp2.0\DealershipTesting.csproj.CoreCompileInputs.cache
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\DealershipTesting\obj\Debug\netcoreapp2.0\DealershipTesting.AssemblyInfoInputs.cache
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\DealershipTesting\obj\Debug\netcoreapp2.0\DealershipTesting.AssemblyInfo.cs
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\DealershipTesting.deps.json
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\DealershipTesting.runtimeconfig.json
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\DealershipTesting.runtimeconfig.dev.json
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\DealershipTesting.dll
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\DealershipTesting.pdb
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\Lab1A.dll
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\Lab1A.pdb
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\DealershipTesting\obj\Debug\netcoreapp2.0\DealershipTesting.csproj.CopyComplete
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\DealershipTesting\obj\Debug\netcoreapp2.0\DealershipTesting.dll
+d:\Users\mike\Desktop\Current school stuff\2019\Secure Software Developement\Good Version\Lab1A\DealershipTesting\obj\Debug\netcoreapp2.0\DealershipTesting.pdb
+D:\LAB1\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\LAB1\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\LAB1\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\LAB1\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\DealershipTesting.deps.json
+D:\LAB1\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\DealershipTesting.runtimeconfig.json
+D:\LAB1\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\DealershipTesting.runtimeconfig.dev.json
+D:\LAB1\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\DealershipTesting.dll
+D:\LAB1\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\DealershipTesting.pdb
+D:\LAB1\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\Lab1A.dll
+D:\LAB1\Lab1A\DealershipTesting\bin\Debug\netcoreapp2.0\Lab1A.pdb
+D:\LAB1\Lab1A\DealershipTesting\obj\Debug\netcoreapp2.0\DealershipTesting.csprojResolveAssemblyReference.cache
+D:\LAB1\Lab1A\DealershipTesting\obj\Debug\netcoreapp2.0\DealershipTesting.csproj.CoreCompileInputs.cache
+D:\LAB1\Lab1A\DealershipTesting\obj\Debug\netcoreapp2.0\DealershipTesting.AssemblyInfoInputs.cache
+D:\LAB1\Lab1A\DealershipTesting\obj\Debug\netcoreapp2.0\DealershipTesting.AssemblyInfo.cs
+D:\LAB1\Lab1A\DealershipTesting\obj\Debug\netcoreapp2.0\DealershipTesting.dll
+D:\LAB1\Lab1A\DealershipTesting\obj\Debug\netcoreapp2.0\DealershipTesting.pdb
