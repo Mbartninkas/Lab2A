@@ -442,36 +442,7 @@ namespace Lab1B.Controllers
         {
             return View();
         }
-        [AllowAnonymous]
-        public async Task<IActionResult> SeedRoles()
-        {
-            //create users
-            ApplicationUser user1 = new ApplicationUser { Email = "lebron@james.com", UserName = "lebron@james.com", FirstName = "lebron", LastName = "james" };
-            ApplicationUser user2 = new ApplicationUser { Email = "mike@jordan.com", UserName = "mike@jordan.com", FirstName = "mike", LastName = "jordan" };
-            //apply passwords
-            IdentityResult result = await (_userManager.CreateAsync(user1, "P@ssword1"));
-            if (!result.Succeeded)
-                return View("Error", new ErrorViewModel { RequestId = "Failed to add new user" });
-            result = await (_userManager.CreateAsync(user2, "P@ssword1"));
-            if (!result.Succeeded)
-                return View("Error", new ErrorViewModel { RequestId = "Failed to add new user" });
-            //roles
-            result = await _roleManager.CreateAsync(new IdentityRole("Employee"));
-            if (!result.Succeeded)
-                return View("Error", new ErrorViewModel { RequestId = "Failed to add new Role" });
-            result = await _roleManager.CreateAsync(new IdentityRole("Manager"));
-            if (!result.Succeeded)
-                return View("Error", new ErrorViewModel { RequestId = "Failed to add new Role" });
-            //apply roles
-            result = await _userManager.AddToRoleAsync(user1, "Employee");
-            if (!result.Succeeded)
-                return View("Error", new ErrorViewModel { RequestId = "Failed to add new role to user" });
-            result = await _userManager.AddToRoleAsync(user2, "Manager");
-            if (!result.Succeeded)
-                return View("Error", new ErrorViewModel { RequestId = "Failed to add new role to user" });
-
-            return RedirectToAction(nameof(Login));
-        }
+      
 
         #region Helpers
 
